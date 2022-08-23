@@ -1,0 +1,102 @@
+.my-bg{
+    background-color: #FFB200 !important;
+}
+
+.bg-black{
+    background-color: #FFB200;
+}
+
+body{
+    background-color: #FFCB42 !important;
+}
+
+body.plane{
+    background-color: #FFCB42 !important;
+    background-image: url(/resources/img/plane-back.png);
+    background-size: 200vh;
+    background-repeat: no-repeat;
+}
+
+.my-text-fat-dark{
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 700;
+    color: #277BC0 !important;
+    font-size: 96px;
+}
+
+.my-text-thin-dark{
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 500;
+    color: #277BC0 !important;
+}
+
+.my-text-light{
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 500;
+    color: #277BC0 !important;
+}
+
+.my-text-thin-light{
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 100 !important;
+    color: #277BC0 !important;
+}
+
+.btn-primary{
+    color: white !important;
+    background-color: #277BC0 !important;
+    border-color: #277BC0 !important;
+}
+
+.btn-outline-primary{
+    color: #277BC0 !important;
+    border-color: #277BC0 !important;
+}
+
+.btn-outline-primary:hover{
+    color: white !important;
+    background-color: #277BC0 !important;
+    border-color: #277BC0 !important;
+}
+
+.modal{
+    background-color: rgba(175, 180, 255, 0.5);
+}
+
+.modal-header{
+    color: #277BC0;
+    border-color: #FFB200;
+    background-color: #FFCB42;
+}
+
+.modal-body{
+    color: #277BC0;
+    border-color: #FFB200;
+    background-color: #FFCB42;
+}
+
+.modal-footer{
+    border-color: #FFB200;
+    background-color: #FFCB42;
+}
+
+span.input-group-text{
+    border: none;
+    background-color: #FFB200;
+    color: #277BC0;
+}
+
+.btn-success{
+    border-color: #277BC0 !important;
+    color: white !important;
+    background-color: #277BC0 !important;
+}
+
+p{
+    background-color: transparent;
+    color: #277BC0;
+}
+
+hr{
+    background-color: #277BC0 !important;
+}
